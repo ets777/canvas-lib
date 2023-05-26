@@ -1,0 +1,22 @@
+{
+  "name": "etsbox-canvas-lib",
+  "version": "0.1.0",
+  "description": "simple canvas library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ets777/canvas-lib.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "ets777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ets777/canvas-lib/issues"
+  },
+  "homepage": "https://github.com/ets777/canvas-lib#readme"
+}
